@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+elm-stuff/
+
+# until I set up build pipeline for rest of dist/ files
+dist/*
