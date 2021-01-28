@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "devtron": "^1.4.0",
-    "electron": "^1.7.9",
+    "electron": "^9.4.0",
     "electron-builder": "^19.45.4",
     "elm-webpack-loader": "^4.4.0",
     "file-loader": "^1.1.5",
